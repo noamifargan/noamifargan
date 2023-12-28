@@ -4,8 +4,7 @@
 
 - <b>NewsApp Project - https://github.com/noamifargan/News-App-Project</b>
 - <b>ChatBot Project - https://github.com/noamifargan/ChatBot-Project</b></i>
-- <b>Chess Game Inplementation Project - </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Chess Game Inplementation Project - https://github.com/noamifargan/Chess-Game-Project </b>
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
